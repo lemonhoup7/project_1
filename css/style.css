@@ -14,3 +14,8 @@ h3{
     color:blue;
 
 }
+table, th, td{        
+    background-color:#97DB9A;
+    border: 1px solid;
+    margin: auto;
+}
